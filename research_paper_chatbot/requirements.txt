@@ -1,0 +1,16 @@
+# Core LlamaIndex
+llama-index-core
+llama-index-llms-google-genai
+llama-index-workflows
+
+# LlamaCloud Services
+llama-cloud-services
+
+# LLM Providers
+google-generativeai
+
+# Frontend
+streamlit
+
+# Utilities
+python-dotenv
